@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.title("Kalkulator Volume Tabung :blue[cool] by bagooess :sunglasses:")
+st.title("Kalkulator :rainbow[Volume Tabung] by bagooess :sunglasses:")
